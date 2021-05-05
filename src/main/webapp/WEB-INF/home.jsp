@@ -14,6 +14,7 @@
 <body>
  <h1 align="center">PiedPiper Bookzy  May 2021</h1>
 <h1 align="center">Congrats - your app deployed on AWS Tomcat!</h1>
-<h2 align="center">Welcome to Bookzy web site ?!</h2>
+<h2 align="center">Welcome to Bookzy web site </h2>
+<h2 align="center">Site Managed by Binu Zachariah </h2>
 </body>
 </html>
