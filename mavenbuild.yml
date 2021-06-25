@@ -1,7 +1,6 @@
 ---
-- hosts: webservers
+- hosts: localhost
   become: yes
-  become_method: sudo
-  tasks: 
+    tasks: 
     - name: maven clean install
       command: mvn clean install
